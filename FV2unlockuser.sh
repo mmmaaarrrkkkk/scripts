@@ -4,8 +4,8 @@
 
 # Variables here
 cdialogbin="/Library/Application Support/JAMF/bin/jamfHelper"
-localadminact="rdteadm"
-localadminpw="yaw2_Redyaw2_Red"
+localadminact="<admin>"
+localadminpw="<password>"
 
 # Check for FV2 been enabled
 
